@@ -3,3 +3,7 @@
 
  api-1
  POST- user/auth/register
+
+
+ api-2
+ GET-user/auth/login
